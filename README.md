@@ -56,7 +56,6 @@ I'm a **Computer Science student** and undergraduate currently gaining hands-on 
 | **Name** | Jawad Abdullah Khan |
 | **Degree** | B.S. Computer Science |
 | **Role** | Cyber Security Intern |
-| **Section** | 5 C |
 | **Semester** | 5th |
 | **Passion** | Cyber Security 🛡️ |
 | **Focus** | Penetration Testing |
@@ -120,7 +119,6 @@ I'm a **Computer Science student** and undergraduate currently gaining hands-on 
 ## 🎓 Education & Internship
 
 **B.S. Computer Science — 5th Semester**  
-*Reg No: FA24-BCS-110 · Section: 5 C*
 
 **Cyber Security Intern — Capregsoft Pvt Ltd**  
 *Islamabad, Pakistan*
