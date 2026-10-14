@@ -87,7 +87,7 @@ I'm a **Computer Science student** and undergraduate currently gaining hands-on 
 `C++` `Java` `Python` `Dart`
 
 ### Mobile App Development
-`Flutter` `Firebase` `Android Studio`
+`Flutter`  `Android Studio`
 
 ### Databases
 `MySQL` `MongoDB`
