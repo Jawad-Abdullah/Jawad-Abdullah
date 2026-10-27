@@ -55,7 +55,6 @@ I'm a **Computer Science student** and undergraduate currently gaining hands-on 
 |---|---|
 | **Name** | Jawad Abdullah Khan |
 | **Degree** | B.S. Computer Science |
-| **Role** | Cyber Security Intern |
 | **Semester** | 5th |
 | **Passion** | Cyber Security 🛡️ |
 | **Focus** | Penetration Testing |
