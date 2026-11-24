@@ -36,7 +36,6 @@ I'm a **Computer Science student** and undergraduate currently gaining hands-on 
 
 - 🎓 **B.S. Computer Science** — 5th Semester
 - 🛡️ **Cyber Security is my passion**
-- 💼 Cyber Security Intern @ **Capregsoft Pvt Ltd**, Islamabad
 - 📱 Building cross-platform apps with **Flutter & Dart**
 - 🧠 Strong grasp of **C++, Java, Python, and OOP concepts**
 - 🗄️ Advanced working knowledge of **MySQL** database design & optimization
